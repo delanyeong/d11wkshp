@@ -21,3 +21,6 @@
 8. git branch -a
 9. git branch -delete <branch name>
 10. git checkout -b develop master
+11. git add * (add to develop branch)
+12. git commit -m "add readme file" (add to develop branch)
+13. git push -u origin develop (push to remote git develop branch)
